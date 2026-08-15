@@ -134,3 +134,13 @@ The packaged application includes a Help menu with documentation and support inf
 ## Repository contents
 
 This repository intentionally contains lightweight documentation, examples, and project materials. The packaged Windows executable and its bundled runtime are distributed through **GitHub Releases** rather than committed to the Git repository because GitHub blocks individual repository files larger than 100 MiB.
+
+## Citation
+
+If you use HWTT Analyzer in research, reports, or publications, please cite the software:
+
+> Hasan, M. W. (2026). *HWTT Analyzer* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21959248
+
+**DOI:** [10.5281/zenodo.21959248](https://doi.org/10.5281/zenodo.21959248)
+
+Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
