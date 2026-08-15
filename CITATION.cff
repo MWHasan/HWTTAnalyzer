@@ -12,8 +12,9 @@ authors:
 
 version: "1.0.0"
 date-released: "2026-08-15"
+doi: "10.5281/zenodo.21959248"
 
-url: "https://github.com/MWHasan/HWTTAnalyzer"
+url: "https://doi.org/10.5281/zenodo.21959248"
 repository-code: "https://github.com/MWHasan/HWTTAnalyzer"
 
 abstract: >-
