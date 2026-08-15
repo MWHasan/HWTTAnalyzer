@@ -40,32 +40,32 @@ HWTT Analyzer can:
 
 ## Getting started
 
-### 1. Download the Windows application
+### 1. Open HWTT Analyzer
 
-Open the repository's **Releases** page and download the latest Windows package.
+After extracting the Windows release, run `HWTTAnalyzer.exe`.
 
-The complete application folder must remain intact. In particular, do **not** separate `HWTTAnalyzer.exe` from the accompanying `_internal` directory.
+### 2. Try an example dataset
 
-### 2. Run the application
-
-Extract the downloaded package and launch:
-
-```text
-HWTTAnalyzer/HWTTAnalyzer.exe
-```
-
-No Python installation is required for the packaged Windows application.
-
-### 3. Try the included examples
-
-Sample input files are provided in [`examples/`](examples/), including:
+Sample inputs are available in [`examples/`](examples/), including:
 
 - PTI equipment output
 - Troxler equipment output
 - Instrotech left/right reports
-- A custom Excel template
+- Custom Excel input
 
-The examples are intended for demonstrating the supported import workflows and are sanitized sample data.
+The example files are intended to demonstrate the supported import workflows and are sanitized sample data.
+
+### 3. Run an analysis
+
+1. Select the source type or use **Auto detect**.
+2. Select the input file, or the matched Instrotech left/right pair.
+3. Choose display units under **Settings > Units**.
+4. Enter optional project information and test temperature.
+5. Select the desired figure and Excel outputs.
+6. Run **Analyze**.
+7. Review the Summary, Fit Review, Plots, and exported Excel workbook.
+
+For the complete workflow, see the [User Manual](docs/HWTT_Analyzer_User_Manual.md).
 
 ## Typical workflow
 
