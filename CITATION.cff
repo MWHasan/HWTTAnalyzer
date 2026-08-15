@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use HWTT Analyzer in research, reports, or publications, please cite the software using the metadata below."
+
+title: "HWTT Analyzer"
+type: software
+
+authors:
+  - family-names: "Hasan"
+    given-names: "Morshed Washif"
+
+version: "1.0.0"
+date-released: "2026-08-15"
+
+url: "https://github.com/MWHasan/HWTTAnalyzer"
+repository-code: "https://github.com/MWHasan/HWTTAnalyzer"
+
+abstract: >-
+  HWTT Analyzer is a Windows desktop application for analysis,
+  parameter extraction, visualization, and comparison of Hamburg
+  Wheel Tracking Test (HWTT) data. The application supports common
+  HWTT equipment-output formats and custom Excel input, model-fit
+  review, analysis-result export, batch processing, and comparison
+  of measured and modeled rut-depth curves.
+
+keywords:
+  - "Hamburg Wheel Tracking Test"
+  - "HWTT"
+  - "asphalt"
+  - "rutting"
+  - "moisture damage"
+  - "pavement engineering"
+  - "transportation engineering"
