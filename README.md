@@ -1,10 +1,29 @@
 # HWTT Analyzer
 
-**HWTT Analyzer** is a Windows desktop application for analyzing **Hamburg Wheel Tracking Test (HWTT)** data from common equipment-output formats and custom Excel templates.
+**HWTT Analyzer** is a Windows desktop application for analysis, parameter extraction, visualization, and comparison of **Hamburg Wheel Tracking Test (HWTT)** data.
 
-It is designed to make HWTT data analysis, parameter extraction, visualization, and comparison easier for laboratory and research workflows.
+The application supports common HWTT equipment-output formats and a custom Excel input format. It provides rut-depth analysis, parameter extraction, model-fit review, plotting, Excel export, batch processing, and comparison of measured and modeled rut-depth curves across multiple tests.
 
-> **Current distribution:** Windows executable. The source code is not included in this repository.
+## Download
+
+**Current release:** [HWTT Analyzer v1.0.0](https://github.com/MWHasan/HWTTAnalyzer/releases/tag/v1.0.0)
+
+**[Download the latest Windows release](https://github.com/MWHasan/HWTTAnalyzer/releases/latest)**
+
+The application is distributed as a 64-bit Windows executable. No Python installation is required.
+
+After downloading `HWTTAnalyzer-Windows-x64.zip`:
+
+1. Extract the complete ZIP archive.
+2. Keep `HWTTAnalyzer.exe` and the accompanying `_internal` directory together.
+3. Run `HWTTAnalyzer.exe`.
+
+> **Distribution:** The compiled Windows application is distributed through GitHub Releases. Source code is not included in this repository.
+
+### Documentation
+
+[**User Manual**](docs/HWTT_Analyzer_User_Manual.md) · [**Analysis Methodology**](docs/HWTT_Analyzer_Background_Data_Analysis_and_Modeling.docx) · [**Example Data**](examples/)
+
 
 ## What it does
 
