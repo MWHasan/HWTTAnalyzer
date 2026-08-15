@@ -7,6 +7,8 @@ type: software
 authors:
   - family-names: "Hasan"
     given-names: "Morshed Washif"
+    affiliation: "Arizona State University"
+    orcid: "https://orcid.org/0000-0003-3668-6801"
 
 version: "1.0.0"
 date-released: "2026-08-15"
