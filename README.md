@@ -38,6 +38,28 @@ HWTT Analyzer can:
 - Compare measured rut-depth curves and modeled creep rut-depth (CRD) curves from multiple analysis workbooks.
 - Export comparison-line information for reuse.
 
+## Application overview
+
+HWTT Analyzer provides an integrated workflow for importing HWTT data, reviewing fitted models, extracting analysis parameters, generating analysis outputs, and comparing results across tests.
+
+### Fit review and model evaluation
+
+The Fit Review interface displays the measured rut-depth response together with the selected model fit and derived analysis parameters. Fit statistics and review recommendations are provided to support evaluation of the selected fit.
+
+![HWTT Analyzer Fit Review](assets/hwtt-fit-review.png)
+
+### Summary results
+
+The Summary Results interface reports key HWTT parameters and tabulates results for the left, right, and average rut-depth series, together with the absolute difference where applicable.
+
+![HWTT Analyzer Summary Results](assets/hwtt-summary-results.png)
+
+### Plot comparison
+
+The Plot Comparison interface allows results from multiple HWTT analysis workbooks to be displayed together. Users can select the data series, configure plot properties, reorder comparison lines, and export the resulting comparison plot.
+
+![HWTT Analyzer Plot Comparison](assets/hwtt-plot-comparison.png)
+
 ## Getting started
 
 ### 1. Open HWTT Analyzer
