@@ -89,20 +89,6 @@ The example files are intended to demonstrate the supported import workflows and
 
 For the complete workflow, see the [User Manual](docs/HWTT_Analyzer_User_Manual.md).
 
-## Typical workflow
-
-1. Open HWTT Analyzer.
-2. Select the source type or use **Auto detect** for a folder containing supported inputs.
-3. Select the input file (or matched Instrotech left/right pair).
-4. Choose display units under **Settings > Units**.
-5. Enter optional project information and test temperature.
-6. Select the desired figure and Excel outputs.
-7. Run **Analyze**.
-8. Review the Summary, Fit Review, Plots, and exported Excel workbook.
-9. Use **Plot Comparison** to compare curves from multiple analysis workbooks.
-
-See the [User Manual](docs/HWTT_Analyzer_User_Manual.md) for the complete workflow.
-
 ## Supported input examples
 
 | Input type | Example |
